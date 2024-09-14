@@ -12,5 +12,15 @@
 
 # para saber el tipo: type(nombre la variable)
 
-x = None
-print(type(x))
+#x = None
+#print(type(x))
+
+#Listas
+#lista=[1,2,3,False]
+#print(lista)
+#lista[3]=4
+#print(lista)
+
+fruits = ['banana', 'orange', 'mango', 'lemon']
+does_exist = 'watermelon' in fruits
+print(does_exist)
